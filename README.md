@@ -1,4 +1,4 @@
-# 🤖 Proyectos de Machine Learning
+# Proyectos de Machine Learning
 
 Proyectos de machine learning y visión por computadora que hice en cursos guiados de Coursera. Cada carpeta trae el notebook, un README con los resultados y las librerías que necesitas para correrlo.
 
