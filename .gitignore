@@ -1,0 +1,19 @@
+# Secretos y llaves
+.env
+.env.*
+kaggle.json
+*.key
+
+# Datos (se descargan de su fuente original)
+*.csv
+*.zip
+*.xlsx
+
+# Jupyter y Python
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
